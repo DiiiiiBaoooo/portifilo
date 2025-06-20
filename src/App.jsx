@@ -12,10 +12,10 @@ const App = () => {
   return (
     <div>
      <main className='max-w-7xl mx-auto  '>
-     {/* <Navbar />
+     <Navbar />
      <Hero />
      <About />
-     <Projects /> */}
+     <Projects />
      <Experience />
      <Contact />
      <Footer />
